@@ -1,0 +1,32 @@
+.winners-list {
+	
+  width: 300px;
+  margin: 0 auto;
+  background-color: #da0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  // align-items: center;
+};
+.winner-item {
+  display: flex;
+}
+.place {
+  font-size: 30px;
+  margin-right: 5px;
+}
+.winner-name {
+  font-size: 30px;
+  font-weight: bold;
+  margin-right: 30px;
+}
+
+.winner-balance {
+  margin-left: auto;
+  font-size: 30px;
+  color: indigo;
+}
+.top-5 {
+  text-align: center;
+}

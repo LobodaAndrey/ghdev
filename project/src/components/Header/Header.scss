@@ -1,0 +1,16 @@
+.signed-in-links {
+	p {
+		font-size: 22px;
+		color: lime;
+		padding-right: 40px ;
+		margin: 0;
+	}
+	.logout-btn {
+		padding: 0 10px;
+		cursor: pointer;
+		background-color:transparent;
+		border: none;
+		outline: none;
+		color: #fff;
+	}
+}
